@@ -2,7 +2,7 @@
 
 This repository contains notebooks and example code used in the talk "What Comes After Coding: Evaluating Agentic Behaviour", presented by Alfonso Roa at the Databricks User Group Meetup in Madrid (hosted at the Repsol Campus).
 
-- [Slides of the presentation](./) (in Spanish).
+- [Slides of the presentation](https://github.com/hablapps/agentic-evaluation-databricks-repsol/blob/main/Evaluating%20Agentic%20Behaviour%20-%20slides.pdf) (in Spanish).
 
 The notebooks demonstrate how to:
 
