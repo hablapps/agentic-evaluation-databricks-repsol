@@ -2,7 +2,9 @@
 
 This repository contains notebooks and example code used in the talk "What Comes After Coding: Evaluating Agentic Behaviour", presented by Alfonso Roa at the Databricks User Group Meetup in Madrid (hosted at the Repsol Campus).
 
-The materials demonstrate how to:
+- [Slides of the presentation](./) (in Spanish).
+
+The notebooks demonstrate how to:
 
 - Build a clickbait detector agent using **LangGraph** and **DSPy**.
 - Track and evaluate agentic behavior using **MLflow**, implementing custom
