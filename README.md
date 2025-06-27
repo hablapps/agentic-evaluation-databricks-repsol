@@ -21,7 +21,7 @@ To import the notebooks into a Databricks workspace:
 1. Copy one of the notebook links
 
    - [**Clickbait agent - LangGraph.ipynb**](https://raw.githubusercontent.com/hablapps/agentic-evaluation-databricks-repsol/refs/heads/main/Clickbait%20agent%20-%20LangGraph.ipynb)
-   - **Clickbait agent - DSPy.ipynb** (_available soon_)
+   - [**Clickbait agent - DSPy.ipynb**](https://raw.githubusercontent.com/hablapps/agentic-evaluation-databricks-repsol/refs/heads/main/Clickbait%20agent%20-%20DSPy.ipynb)
 2. In the workspace browser, navigate to the location where you want to import the notebook.
 3. Right-click the folder and select **Import** from the menu.
 4. Click the **URL** radio button and paste the link you just copied in the field
@@ -53,7 +53,7 @@ To evaluate the agent’s performance, a labeled dataset of clickbait vs. non-cl
 ## 🧠 Agent variants
 
 - LangGraph version: [Clickbait agent - LangGraph.ipynb](https://github.com/hablapps/agentic-evaluation-databricks-repsol/blob/main/Clickbait%20agent%20-%20LangGraph.ipynb)
-- DSPy version : _available soon_
+- DSPy version: [Clickbait agent - DSPy.ipynb](https://github.com/hablapps/agentic-evaluation-databricks-repsol/blob/main/Clickbait%20agent%20-%20DSPy.ipynb)
 
 ## 📊 Evaluation Techniques
 
